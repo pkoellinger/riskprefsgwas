@@ -1,5 +1,4 @@
 #!/bin/bash
-#THISISATEST
 for i in {1..22}
 do
 	snptest_v2.5.1_linux_x86_64_static/snptest_v2.5.1 \
